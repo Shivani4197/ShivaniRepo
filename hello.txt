@@ -2,4 +2,3 @@ This is my first Day.
 This is my Git tranning .
 This is third day.
 This is the line.
-This is my breaktime.
